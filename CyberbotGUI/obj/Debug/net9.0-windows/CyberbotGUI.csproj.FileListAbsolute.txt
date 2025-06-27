@@ -1,0 +1,17 @@
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\CyberbotGUI.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\CyberbotGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\CyberbotGUI.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\CyberbotGUI.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\CyberbotGUI.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\CyberbotGUI.TaskForm.resources
+C:\Users\lab_services_student\Desktop\CyberbotGUI\bin\Debug\net9.0-windows\CyberbotGUI.exe
+C:\Users\lab_services_student\Desktop\CyberbotGUI\bin\Debug\net9.0-windows\CyberbotGUI.deps.json
+C:\Users\lab_services_student\Desktop\CyberbotGUI\bin\Debug\net9.0-windows\CyberbotGUI.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\CyberbotGUI\bin\Debug\net9.0-windows\CyberbotGUI.dll
+C:\Users\lab_services_student\Desktop\CyberbotGUI\bin\Debug\net9.0-windows\CyberbotGUI.pdb
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\CyberbotGUI.dll
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\refint\CyberbotGUI.dll
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\CyberbotGUI.pdb
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\CyberbotGUI.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\ref\CyberbotGUI.dll
+C:\Users\lab_services_student\Desktop\CyberbotGUI\obj\Debug\net9.0-windows\CyberbotGUI.MainForm.resources
